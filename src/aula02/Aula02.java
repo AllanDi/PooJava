@@ -15,7 +15,7 @@ public class Aula02 {
         System.out.println();
         c1.destampar();
         c1.status();
-        c1.rabisca();
+        c1.r();
 
 
 
